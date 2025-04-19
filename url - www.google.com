@@ -1407,17 +1407,17 @@ Research hovers around quantum field theory, cosmological-gravitational physics,
 
                     <ul class='o-plain-list c-social-nav u-text-center'>
                         <li class='c-social-nav__item'>
-                            <a href='mailto:ke.baek@berkeley.edu' target='_blank'>
+                            <a href='mailto:sjrey@kw.ac.kr' target='_blank'>
                                 <span class='c-social-nav__icon' data-icon='ei-envelope' data-size='s'></span>
                             </a>
                         </li>
                         <li class='c-social-nav__item'>
-                            <a href='https://github.com/kebaek' target='_blank'>
+                            <a href='https://github.com/soojongrey' target='_blank'>
                                 <span class='c-social-nav__icon' data-icon='ei-sc-github' data-size='s'></span>
                             </a>
                         </li>
                         <li class='c-social-nav__item'>
-                            <a href='https://www.linkedin.com/in/christina-baek/' target='_blank'>
+                            <a href='https://www.linkedin.com/in/soo-jong rey/' target='_blank'>
                                 <span class='c-social-nav__icon' data-icon='ei-sc-linkedin' data-size='s'></span>
                             </a>
                         </li>
