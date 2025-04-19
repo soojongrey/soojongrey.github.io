@@ -1417,7 +1417,7 @@ Research hovers around quantum field theory, cosmological-gravitational physics,
                             </a>
                         </li>
                         <li class='c-social-nav__item'>
-                            <a href='https://www.linkedin.com/in/soo-jong rey/' target='_blank'>
+                            <a href='https://www.linkedin.com/in/soo-jong-rey-142688a' target='_blank'>
                                 <span class='c-social-nav__icon' data-icon='ei-sc-linkedin' data-size='s'></span>
                             </a>
                         </li>
